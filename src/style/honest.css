@@ -1,0 +1,16 @@
+#honest {
+    display: flex;
+    flex-direction: column;
+}
+
+.title {
+    color: #1d1d1d;
+    font-size: 3rem;
+}
+.title span {
+    color: #fc4c02;
+    font-weight: 600;
+}
+.description {
+    font-size: 1.2rem;
+}
